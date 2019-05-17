@@ -1,6 +1,7 @@
 {
   "expo": {
-    "name": "nomad-todo",
+    "name": "Nomad To Do",
+    "description": "todo list using react native",
     "slug": "nomad-todo",
     "privacy": "public",
     "sdkVersion": "32.0.0",
